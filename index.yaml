@@ -6,7 +6,7 @@ entries:
     created: "2022-01-14T11:55:13.14795822Z"
     dependencies:
     - name: pages-api
-      repository: https://localhost:8080
+      repository: https://aaron94.github.io/pages-1.0.0.tgz 
       version: 1.x.x
     - name: mysql
       repository: https://localhost:8080
@@ -19,3 +19,4 @@ entries:
     - pages-1.0.0.tgz
     version: 1.0.0
 generated: "2022-01-14T11:55:13.146715172Z"
+
